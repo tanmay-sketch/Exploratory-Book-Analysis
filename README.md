@@ -12,6 +12,6 @@ Dataset link: https://www.kaggle.com/datasets/die9origephit/amazon-data-science-
 3. https://arxiv.org/pdf/2210.02334.pdf
 
 # TO-DO: 
-- [ ] Finish Citations
-- [ ] Finish Formatting
-- [ ] Make discussion and conclusion better if possible
+- [-] Finish Citations
+- [-] Finish Formatting
+- [-] Make discussion and conclusion better if possible
